@@ -1,0 +1,8 @@
+C:\Training\DotNetTraining\DelegateTaskHandsonToday\DelegateTaskHandsonToday\obj\Debug\DelegateTaskHandsonToday.csproj.AssemblyReference.cache
+C:\Training\DotNetTraining\DelegateTaskHandsonToday\DelegateTaskHandsonToday\obj\Debug\DelegateTaskHandsonToday.csproj.SuggestedBindingRedirects.cache
+C:\Training\DotNetTraining\DelegateTaskHandsonToday\DelegateTaskHandsonToday\obj\Debug\DelegateTaskHandsonToday.csproj.CoreCompileInputs.cache
+C:\Training\DotNetTraining\DelegateTaskHandsonToday\DelegateTaskHandsonToday\bin\Debug\DelegateTaskHandsonToday.exe.config
+C:\Training\DotNetTraining\DelegateTaskHandsonToday\DelegateTaskHandsonToday\bin\Debug\DelegateTaskHandsonToday.exe
+C:\Training\DotNetTraining\DelegateTaskHandsonToday\DelegateTaskHandsonToday\bin\Debug\DelegateTaskHandsonToday.pdb
+C:\Training\DotNetTraining\DelegateTaskHandsonToday\DelegateTaskHandsonToday\obj\Debug\DelegateTaskHandsonToday.exe
+C:\Training\DotNetTraining\DelegateTaskHandsonToday\DelegateTaskHandsonToday\obj\Debug\DelegateTaskHandsonToday.pdb
